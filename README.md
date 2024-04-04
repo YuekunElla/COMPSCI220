@@ -1,1 +1,1 @@
-# CS220_Algorithms_and_Data_Structures
+# CS220: Algorithms and Data Structures
